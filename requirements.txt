@@ -1,0 +1,6 @@
+numpy==1.22.3
+pandas==1.4.1
+scikit-learn==1.0.2
+keras==2.8.0
+tensorflow==2.8.0
+xgboost==1.5.2
